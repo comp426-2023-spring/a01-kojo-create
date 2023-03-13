@@ -6,10 +6,22 @@
   "scripts": {
     "test": "node server.js --port=5555"
   },
-  "repository": {
+   "repository": {
     "type": "git",
-    "url": "https://github.com/comp426-2023-spring/a01-kojo-create"
+    "url": "git+https://github.com/comp426-2023-spring/a01-kojo-create.git"
   },
+  "keywords": [
+    "webserver"
+  ],
   "author": "kojo-create",
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-kojo-create/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-kojo-create#readme",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
 }
+
+
