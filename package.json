@@ -11,7 +11,13 @@
     "url": "git+https://github.com/comp426-2023-spring/a01-kojo-create.git"
   },
   "keywords": [
-    "webserver"
+    "web",
+    "server",
+     "port",
+    "node",
+    "fs",
+    "args",
+    "http"
   ],
   "author": "kojo-create",
   "license": "GPL-3.0-or-later",
